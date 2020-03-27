@@ -1,0 +1,6 @@
+dmenu
+dmenu_run
+stest
+*.o
+*.rej
+
