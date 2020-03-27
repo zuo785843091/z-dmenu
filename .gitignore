@@ -3,4 +3,4 @@ dmenu_run
 stest
 *.o
 *.rej
-
+*.orig
